@@ -13,9 +13,10 @@ I’m a passionate and results-driven **Software Developer** with a strong found
 
 - **Languages:** Java, Python, C++, JavaScript (ES6+), TypeScript  
 - **Frontend:** HTML5, CSS3, React.js, Tailwind CSS, Next.js  
-- **Backend:** Node.js, Express.js, REST APIs, MongoDB, MySQL  
+- **Backend:** Node.js, Express.js, REST APIs,  
 - **Design & Prototyping:** Figma, Adobe XD  
-- **Tools & Platforms:** Git, GitHub, VS Code, Postman, Docker  
+- **Tools & Platforms:** Git, GitHub, VS Code, Postman, Docker,version control
+- **Database** - MongoDB, MySQL
 - **Others:** Object-Oriented Programming (OOP), Data Structures & Algorithms, Agile/Scrum
 
 ---
